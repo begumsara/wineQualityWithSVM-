@@ -79,11 +79,13 @@ Alcohol: 9.4
 
 ### Plot of Variables
 
-(images/plotOfAllVariables.png)
+![Plot of Variables](images/plotOfVariables.png)
+
 
 ### Plot of All Values
 
-(images/plotOfAllValues.png)
+![Plot of All Values](images/plotOfAllValues.png)
+
 
 > 💡 Tip: Save your plots as PNGs in `images/` folder using `plt.savefig("images/plot_name.png")`.
 
@@ -98,4 +100,4 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 ## Contact
 
 * Author: **Begüm Şara Ünal**
-* Email: *\[[your-email@example.com](mailto:your-email@example.com)]*
+* Email: *\[begumsaraunal@gmail.com](mailto:begumsaraunal@gmail.com)]*
